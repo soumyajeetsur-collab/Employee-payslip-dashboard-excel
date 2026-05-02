@@ -1,5 +1,3 @@
-# Employee-payslip-dashboard-excel
-Data analysis project using Excel to visualize and analyze employee salary, deductions, and payroll insights through an interactive dashboard.
 # 💼 Employee PaySlip Dashboard | Excel Project 📊
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel)
@@ -42,10 +40,7 @@ It helps analyze salary structure, deductions, and net pay, providing a clear an
 📁 Employee-PaySlip-Dashboard
 │── 📊 PaySlip.xlsx
 │── 📄 README.md
-│── 📷 images/
-<img width="1536" height="1024" alt="Employee Pyaslip Dasboard" src="https://github.com/user-attachments/assets/06a921d9-4192-4c6c-9816-a44302694d5f" />
-
-)
+│── 📷 images/ (dashboard screenshots / GIF)
 ```
 
 ---
@@ -72,12 +67,11 @@ It helps analyze salary structure, deductions, and net pay, providing a clear an
 
 🚧 *Add screenshot or GIF here*
 
-Example:https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel/blob/main/Employee%20Pyaslip%20Dasboard.png
+Example:<img width="1536" height="1024" alt="Employee Pyaslip Dasboard" src="https://github.com/user-attachments/assets/9c00c7dd-cf22-4b64-ad0b-afc438f5168a" />
+
 
 ```id="0zzfjs"
-![Dashboard]
-https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel/blob/main/Employee%20Pyaslip%20Dasboard.png
-
+![Dashboard](images/dashboard.gif)
 ```
 
 ---
@@ -131,5 +125,6 @@ If you found this project useful:
 ## 📬 Contact
 
 Open for internships, freelance, and collaboration opportunities!
+
 https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel/blob/main/Employee%20Pyaslip%20Dasboard.png
 
