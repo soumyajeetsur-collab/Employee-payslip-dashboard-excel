@@ -69,10 +69,10 @@ It helps analyze salary structure, deductions, and net pay, providing a clear an
 
 🚧 *Add screenshot or GIF here*
 
-Example:
+Example:https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel/blob/main/Employee%20Pyaslip%20Dasboard.png
 
 ```id="0zzfjs"
-![Dashboard](images/dashboard.gif)
+![Dashboard](https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel/blob/main/Employee%20Pyaslip%20Dasboard.png)
 ```
 
 ---
