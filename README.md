@@ -76,8 +76,7 @@ Example:https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel
 
 ```id="0zzfjs"
 ![Dashboard]
-
-
+https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel/blob/main/Employee%20Pyaslip%20Dasboard.png
 
 ```
 
