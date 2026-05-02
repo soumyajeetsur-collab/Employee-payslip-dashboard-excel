@@ -42,7 +42,8 @@ It helps analyze salary structure, deductions, and net pay, providing a clear an
 📁 Employee-PaySlip-Dashboard
 │── 📊 PaySlip.xlsx
 │── 📄 README.md
-│── 📷 images/ (dashboard screenshots / GIF)
+│── 📷 images/ (<img width="1536" height="1024" alt="Employee Pyaslip Dasboard" src="https://github.com/user-attachments/assets/526ae803-f34f-4930-b99b-db3e11368e05" />
+)
 ```
 
 ---
@@ -72,7 +73,7 @@ It helps analyze salary structure, deductions, and net pay, providing a clear an
 Example:https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel/blob/main/Employee%20Pyaslip%20Dasboard.png
 
 ```id="0zzfjs"
-![Dashboard](https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel/blob/main/Employee%20Pyaslip%20Dasboard.png)
+![Dashboard]
 ```
 
 ---
